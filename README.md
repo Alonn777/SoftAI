@@ -1,22 +1,23 @@
 🚀 SoftAI – Landing Page Profissional Responsiva
-SoftAI é um protótipo de landing page moderna e totalmente responsiva, desenvolvida como se fosse para uma agência fictícia especializada em Inteligência Artificial e desenvolvimento de Software.
 
-Este projeto foi criado com foco em boas práticas de desenvolvimento front-end, aplicando conceitos de responsividade, usabilidade e SEO. Ideal para compor um portfólio profissional ou servir de base para sites corporativos reais.
+**SoftAI** é um protótipo de landing page moderna e responsiva desenvolvido para representar uma agência fictícia especializada em Inteligência Artificial e desenvolvimento de Software.
 
-✨ Funcionalidades
-🌐 Layout moderno e adaptável a todos os dispositivos (responsivo)
+O projeto foi construído com foco em boas práticas de desenvolvimento front-end, garantindo uma ótima experiência do usuário em diferentes dispositivos e navegadores.
 
-📱 Menu hamburguer funcional para navegação em dispositivos móveis
+## ✨ Funcionalidades
 
-🖼️ Carrossel de imagens interativo feito com JavaScript puro
+- 🌐 Layout totalmente responsivo
+- 📱 Menu hambúrguer para navegação mobile
+- 🖼️ Carrossel interativo feito com JavaScript puro
+- 🔍 HTML semântico com foco em SEO
+- 💻 Design profissional e moderno
 
-🔍 Estrutura HTML otimizada com boas práticas de SEO
+## 🛠️ Tecnologias Utilizadas
 
-🎯 Código limpo e organizado, seguindo boas práticas de desenvolvimento
+- **HTML5** – Estrutura semântica com boas práticas de SEO
+- **CSS3** – Estilização responsiva e design adaptável
+- **JavaScript** – Funcionalidades dinâmicas como o carrossel e o menu mobile
 
-🛠️ Tecnologias utilizadas
-HTML5 — Estrutura da página com foco em semântica e SEO
-
-CSS3 — Estilização com responsividade e design profissional
+## 📁 Como Usar
 
 JavaScript — Funcionalidades interativas como o carrossel e menu mobile
