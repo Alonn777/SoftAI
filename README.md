@@ -17,7 +17,3 @@ O projeto foi construído com foco em boas práticas de desenvolvimento front-en
 - **HTML5** – Estrutura semântica com boas práticas de SEO
 - **CSS3** – Estilização responsiva e design adaptável
 - **JavaScript** – Funcionalidades dinâmicas como o carrossel e o menu mobile
-
-## 📁 Como Usar
-
-JavaScript — Funcionalidades interativas como o carrossel e menu mobile
